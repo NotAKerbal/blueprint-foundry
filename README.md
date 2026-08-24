@@ -30,4 +30,7 @@ The board is a structural preview. Factorio remains the final authority for reci
 
 ## Credits
 
-Based on T3 Code v0.0.12, copyright 2026 T3 Tools Inc., used under the MIT License. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+- Based on [T3 Code v0.0.12](https://github.com/pingdotgg/t3code), copyright 2026 T3 Tools Inc., used under the MIT License.
+- The visual Factorio 2.0 builder comes from [Trisiak's Factorio Blueprint Editor](https://github.com/trisiak/factorio-blueprint-editor), a maintained fork of [Teoxoy's original editor](https://github.com/Teoxoy/factorio-blueprint-editor), copyright 2020 Tanasoaia Teodor Andrei, used under the MIT License.
+
+See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for license and game-asset details.

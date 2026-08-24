@@ -2,7 +2,7 @@
 
 ## Factorio Blueprint Editor
 
-Blueprint Foundry uses code from [trisiak/factorio-blueprint-editor](https://github.com/trisiak/factorio-blueprint-editor), an independent fork of [Teoxoy/factorio-blueprint-editor](https://github.com/Teoxoy/factorio-blueprint-editor).
+Blueprint Foundry's visual Factorio 2.0 builder uses code from [trisiak/factorio-blueprint-editor](https://github.com/trisiak/factorio-blueprint-editor), an independent fork of [Teoxoy/factorio-blueprint-editor](https://github.com/Teoxoy/factorio-blueprint-editor).
 
 Copyright (c) 2020 Tanasoaia Teodor Andrei
 
