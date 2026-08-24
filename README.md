@@ -2,6 +2,8 @@
 
 Describe a Factorio factory to Codex. Blueprint Foundry researches the ratios, turns the design into a tile layout, renders it on a board, and gives you a Factorio 2.0 blueprint string to copy.
 
+![Blueprint Foundry showing a Codex conversation beside a generated furnace blueprint](docs/blueprint-foundry.png)
+
 This is a focused fork of [T3 Code](https://github.com/pingdotgg/t3code). It keeps T3 Code's local Codex app-server integration and chat history, then replaces the general coding workspace with a Factorio blueprint artifact and board.
 
 ## Run it
